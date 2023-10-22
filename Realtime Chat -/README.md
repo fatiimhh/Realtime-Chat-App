@@ -1,5 +1,0 @@
- Fullstack Realtime Chat project 
- 
-
-
-
