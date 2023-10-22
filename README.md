@@ -1,1 +1,5 @@
-# Realtime-Chat-App
+ Fullstack Realtime Chat project 
+ 
+
+
+
